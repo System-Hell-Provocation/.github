@@ -1,5 +1,7 @@
 # System Hell Provocation (SHP)
 
+![SHP](shp.webp)
+
 ### The brand for bureaucratic-satirical high tension.
 
 > [!WARNING]
