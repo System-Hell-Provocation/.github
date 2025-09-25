@@ -1,7 +1,9 @@
 #  System Hell Provocation (SHP) 
 
 ###### [English Version](english.md)
+
 ![SHP](shp.webp)
+
 ### Die Marke für bürokratisch-satirische Hochspannung.
 
 > [!WARNING]
