@@ -43,6 +43,7 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - **Thema:** Die Rolle eines System-Manipulators, der über ein korrumpiertes Netzwerk im **Jugendamt** und **Amtsgericht** Seelen erntet und verkauft.
 - **Status:** **Aktiv in Entwicklung**.
 - **Version:** 1.0.0 (String-Protokoll-Integrationsstart).
+- [Repo](https://github.com/System-Hell-Provocation/Der-Seelen-Verkaeufer)
 
 #### 2. **SHP-Modul-Z2000-MH (Antrags-Triage)**
 
@@ -51,6 +52,7 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - **Slogan:** *Braun sein leicht gemacht.*
 - **Status:** **Stable Version (Freigegeben)**.
 - **Version:** 1.0.2 (Ohne externes String-Protokoll).
+- [Repo](https://github.com/System-Hell-Provocation/SHD-PKA-004)
 
 #### 3. **SHD-PKA-004 (STASI-Modul)** (Internes Audit-Modul)
 
@@ -58,6 +60,7 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - **Thema:** Die **zynische Überwachung** von geschlechtlicher und sexueller Identität, um Klischees zu bestätigen und den "Abweichungsfaktor" niedrig zu halten.
 - **Slogan:** *Sei systemkonform. Optimiere zur Norm.*
 - **Status:** **Alpha-Version (Freigegeben)**.
+- [Repo](https://github.com/System-Hell-Provocation/SHD-PKA-004)
 
 
 ### Roadmap & String-Protokoll
@@ -67,10 +70,11 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - Das **AUTONOME STRING-PROTOKOLL** ersetzt sämtliche Datenbank-Abhängigkeiten zwischen den Modulen (Z2000, Seelenverkäufer, PKA-004).
 - Optimiertes **TAPI-System** für den Versand des einzigartigen Protokoll-Strings.
 - Migrantensoftware und Technik, die nur ein Ziel kennt: minimale Bandbreite, maximale Bürokratie.
+- [Repo](https://github.com/System-Hell-Provocation/SHD-FAX-2000)
 
 ### 2. End-to-End Pipeline
 - Fertigstellung der Kommunikation zwischen **Z2000** → **SEELEN-MODUL** → **PKA-004**.
-- ...
+- Meldehalle (optinal migration in Zentralen Strinjg, doch dann wäre das System zu effektive!
 
 ---
 
