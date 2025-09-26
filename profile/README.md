@@ -39,23 +39,23 @@ Wir (ich) lieben die großen deutschen **Systeme** und **Dienstleister** wie **S
 
 ### 1. **Der Seelen Verkäufer** (Herzstück & Kern-Engine)
 
-  * **Art:** Passive-aggressive Zeitverschwendungssimulation (Idle/Clicker) in Vanilla JS.
-  * **Thema:** Die Rolle eines System-Manipulators, der über ein korrumpiertes Netzwerk im **Jugendamt** und **Amtsgericht** Seelen erntet und verkauft.
-  * **Status:** **Aktiv in Entwicklung** und spielbar bis zum  kotzen!
+- **Art:** Passive-aggressive Zeitverschwendungssimulation (Idle/Clicker) in Vanilla JS.
+- **Thema:** Die Rolle eines System-Manipulators, der über ein korrumpiertes Netzwerk im **Jugendamt** und **Amtsgericht** Seelen erntet und verkauft.
+-  **Status:** **Aktiv in Entwicklung** und spielbar bis zum  kotzen!
 
 ### 2. **System Z2000** (Externes Audit-Modul)
 
-  * **Offizieller Titel:** Verfahrensoptimierungs- und Fallbearbeitungsunterstützungssystem
-  * **Thema:** Die **satirische Modellierung** von rassistischen und diskriminierenden Verwaltungsprozessen.
-  * **Slogan:** *Braun sein leicht gemacht.*
-  * **Status:** **Stable Version (Freigegeben)**.
+-  **Offizieller Titel:** Verfahrensoptimierungs- und Fallbearbeitungsunterstützungssystem
+- **Thema:** Die **satirische Modellierung** von rassistischen und diskriminierenden Verwaltungsprozessen.
+-  **Slogan:** *Braun sein leicht gemacht.*
+- **Status:** **Stable Version (Freigegeben)**.
 
 ### 3. **PKA-004 (STASI-Modul)** (Internes Audit-Modul)
 
-  * **Offizieller Titel:** Psychosoziales Konformitäts-Audit zur Vektoranpassung
-  * **Thema:** Die **zynische Überwachung** von geschlechtlicher und sexueller Identität, um Klischees zu bestätigen und den "Abweichungsfaktor" niedrig zu halten.
-  * **Slogan:** *Sei systemkonform. Optimiere zur Norm.*
-  * **Status:** **Alpha-Version (Freigegeben)**.
+- **Offizieller Titel:** Psychosoziales Konformitäts-Audit zur Vektoranpassung
+- **Thema:** Die **zynische Überwachung** von geschlechtlicher und sexueller Identität, um Klischees zu bestätigen und den "Abweichungsfaktor" niedrig zu halten.
+- **Slogan:** *Sei systemkonform. Optimiere zur Norm.*
+- **Status:** **Alpha-Version (Freigegeben)**.
 
 -----
 
@@ -63,5 +63,5 @@ Wir (ich) lieben die großen deutschen **Systeme** und **Dienstleister** wie **S
 
 Alle SHP-Projekte setzen auf **klare Struktur** und **deutsche Ingenieurskunst** im Code.
 
-  * **Technologie:** HTML5, CSS3, Vanilla JavaScript und weitere
-  * **Lizenz:** Dieses Werk steht unter der **GNU General Public License v3.0 (GPLv3)**. Wir erzwingen damit das Prinzip der **freien Arbeit** – jeder, der den Code nutzt oder modifiziert, muss seine Änderungen ebenfalls offenlegen.
+- **Technologie:** HTML5, CSS3, Vanilla JavaScript und weitere
+- **Lizenz:** Dieses Werk steht unter der **GNU General Public License v3.0 (GPLv3)**. Wir erzwingen damit das Prinzip der **freien Arbeit** – jeder, der den Code nutzt oder modifiziert, muss seine Änderungen ebenfalls offenlegen.
