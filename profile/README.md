@@ -2,7 +2,7 @@
 
 ###### [English Version](english.md)
 
-![SHP](shp_logo.webp)
+![SHP](git.webp)
 
 ### Die Marke für bürokratisch-satirische Hochspannung.
 
