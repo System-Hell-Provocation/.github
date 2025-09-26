@@ -89,3 +89,6 @@ Alle SHP-Projekte setzen auf **klare Struktur** und **deutsche Ingenieurskunst**
 # Ernste Worte:
 
 So bleiben wir mal ernst: Natürlich sind diese Projekte **Satire**. Jedoch habe ich mit Absicht versucht, für eine **primitive Herangehensweise** (Vanilla JS, String-Protokolle) **saubere Logiken** aufzubauen. Leider bastel ich hier und da, TAPI-Simulator versagt und Fax ist wieder kaputt – echt! Wer Bock hat, kann mir helfen. Du musst nur fähig sein, ganz **primitiv** zu denken!
+
+### Kontak
+[Discord](https://discord.gg/s47Ms6Wsjm)
