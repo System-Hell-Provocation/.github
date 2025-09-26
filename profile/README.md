@@ -43,8 +43,8 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - **Art:** Passive-aggressive Zeitverschwendungssimulation (Idle/Clicker) in Vanilla JS.
 - **Thema:** Die Rolle eines System-Manipulators, der über ein korrumpiertes Netzwerk im **Jugendamt** und **Amtsgericht** Seelen erntet und verkauft.
 - **Status:** **Aktiv in Entwicklung**.
-- **Version:** 1.0.0 (String-Protokoll-Integrationsstart).
-- [Repo](https://github.com/System-Hell-Provocation/Der-Seelen-Verkaeufer) Link nur möglich für Orga Member! 
+- **Version:** 1.0.8 (String-Protokoll-Integrationsstart).
+- [Repo](https://github.com/System-Hell-Provocation/Der-Seelen-Verkaeufer) Frei für alle 
 
 #### 2. **SHP-Modul-Z2000-MH (Antrags-Triage)**
 
