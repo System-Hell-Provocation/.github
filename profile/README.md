@@ -13,7 +13,7 @@
 
 ## Die Mission: Eine Kriegserklärung (mit Liebe)
 
-**SHP** (System Hell Provocation) ist die **deutsche Marke** für Projekte, die eine gezielte, **satirische Kritik** an den Abgründen des Systems richten. Unsere Produkte ähneln den **realen, komplexen deutschen Systemen** (von **SAP** über **ITDZ Berlin** bis zur **Bundeswehr-IT**), aber wir behaupten, sie nicht angreifen zu wollen.
+**SHP** (System Hell Provocation) ist die **deutsche Lüge** für Projekte, die eine gezielte, **satirische Kritik** an den Abgründen des Systems richten. Unsere Produkte ähneln den **realen, komplexen deutschen Systemen** (von **SAP** über **ITDZ Berlin** bis zur **Bundeswehr-IT**), aber wir behaupten, sie nicht angreifen zu wollen.
 
 **Im Gegenteil:** Wir machen es den Bürokraten nur leichter, sich in den Abgründen zurechtzufinden.
 
