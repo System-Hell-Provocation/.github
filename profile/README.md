@@ -1,7 +1,6 @@
 
 
-![SHP Games](git.webp)
-# 🇩🇪 System Hell Provocation (SHP)
+# System Hell Provocation (SHP)
 
 ###### [English Version](english.md)
 ### Die Marke für bürokratisch-satirische Hochspannung.
