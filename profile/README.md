@@ -52,7 +52,7 @@ Wir lieben die großen deutschen **Systeme** und **Dienstleister** wie **SAP**, 
 - **Slogan:** *Braun sein leicht gemacht.*
 - **Status:** **Stable Version (Freigegeben)**.
 - **Version:** 1.0.2 (Ohne externes String-Protokoll).
-- [Repo](https://github.com/System-Hell-Provocation/SHD-PKA-004) Link nur möglich für Orga Member! 
+- [Repo](https://github.com/System-Hell-Provocation/Z2000) Link nur möglich für Orga Member! 
 
 #### 3. **SHD-PKA-004 (STASI-Modul)** (Internes Audit-Modul)
 
