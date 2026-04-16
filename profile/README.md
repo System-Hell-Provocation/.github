@@ -20,12 +20,12 @@ Wir zielen auf die **wunden Punkte** des deutschen Verwaltungsstils ab und liefe
 
 ---
 
-### Die Architekten der Hölle: Wer ist SHD?
+### Die Architekten der Hölle: Wer ist SHP?
 
 Dieses Projekt wird von **SHP**, dem Admin von Projekt JADE, geleitet. Genie und Wahnsinn sind nicht weit. Einst versprach sein Sohn, ein Professor zu werden, wenn Papa ein Verrückter Professor wird. Na, 
 werde sich wohl Mühe geben müssen!
 
-SHD provoziert mit **Stil, Charme und präzisestem Code**. Die Haltung dahinter: Als **LGBTQ-freundlicher Muslimischer Migrant** erfülle ich alle Klischees, die Hass-Propaganda schürt. Dies ist mein **Konter** in Code-Form. Ich bin noch schwarz, jüdisch, schwul, lesbisch, doof, schlau, aber ich bin nicht blau, nicht rot, nicht braun, nicht grün oder andere politische Farben. Ich bin mit **Hirn ** Made in Germany!**
+SHP provoziert mit **Stil, Charme und präzisestem Code**. Die Haltung dahinter: Als **LGBTQ-freundlicher Muslimischer Migrant** erfülle ich alle Klischees, die Hass-Propaganda schürt. Dies ist mein **Konter** in Code-Form. Ich bin noch schwarz, jüdisch, schwul, lesbisch, doof, schlau, aber ich bin nicht blau, nicht rot, nicht braun, nicht grün oder andere politische Farben. Ich bin mit **Hirn ** Made in Germany!**
 
 Hier gibt es **Qualität und Logik** und **Quälerei** – **Made in Germany**, aber mit einer **globalen, unmissverständlichen Botschaft**. Nehmen Sie den Konter an. **Viel Spaß beim Kotzen, wenn Sie ein gutes Herz haben!**
 
